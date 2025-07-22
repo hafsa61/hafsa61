@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM's**
 
-- 🌱 I’m currently learning **About the Concepts of AL/ML and React for Front-end**
+- 🌱 I’m currently learning **About the Concepts of AI/ML and React for Front-end**
 
 - 👯 I’m looking to collaborate on **Any ML or web development Projects**
 
